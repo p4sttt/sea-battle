@@ -3,8 +3,6 @@ package net.d4y2k.seabattle.user.dto;
 import lombok.Data;
 import net.d4y2k.seabattle.user.role.Role;
 
-import java.util.Collection;
-import java.util.List;
 import java.util.UUID;
 
 @Data

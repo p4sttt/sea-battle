@@ -1,6 +1,5 @@
 package net.d4y2k.seabattle.map.strike.dto;
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
 import net.d4y2k.seabattle.user.User;
 import net.d4y2k.seabattle.user.dto.UserDTO;

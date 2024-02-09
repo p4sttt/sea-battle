@@ -18,7 +18,7 @@ public class DataInitializer implements CommandLineRunner {
     private final UserService userService;
 
     @Override
-    public void run(String... args) throws Exception {
+    public void run(String... args) {
         Role defaultRole = roleService.save("USER");
         log.info("default role successfully created: {}", defaultRole);
 

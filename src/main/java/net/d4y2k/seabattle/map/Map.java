@@ -6,8 +6,6 @@ import lombok.NoArgsConstructor;
 import net.d4y2k.seabattle.map.cell.Cell;
 import net.d4y2k.seabattle.map.dto.MapDTO;
 import net.d4y2k.seabattle.map.strike.Strike;
-import net.d4y2k.seabattle.ship.Ship;
-import net.d4y2k.seabattle.user.User;
 
 import java.util.HashSet;
 import java.util.Set;

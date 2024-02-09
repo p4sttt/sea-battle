@@ -1,7 +1,6 @@
 package net.d4y2k.seabattle.utils;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
-import lombok.Builder;
 import lombok.Data;
 import org.springframework.http.HttpStatus;
 
