@@ -12,7 +12,7 @@ Implementation of backend part of [sea battle application](https://cloud.predpro
 ### Installation & Usage
 1. Clone the repo
     ```shell
-    git clone https://github.com/p4sttt/sea-battle-backend.git
+    git clone https://github.com/p4sttt/sea-battle.git
     ```
 2. Update application.properties
 3. Build project
